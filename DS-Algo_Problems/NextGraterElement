@@ -1,0 +1,46 @@
+import java.util.Arrays;
+
+public class NextGraterElement
+{
+    public static void main(String[] args) {
+        int [] num1 = {10,15,20,25};
+        int [] num2 = {25,20,15,10};
+        int[] ans  = nextGreaterElement(num1,num2);
+        System.out.println(Arrays.toString(ans));
+    }
+    public static int[] nextGreaterElement(int[] nums1, int[] nums2) {
+        //
+        for (int i = 0; i < nums1.length; i++) {
+            for (int j = 0; j < nums2.length; j++) {
+                // now we have to check for if the element is present or not
+                if(nums1[i] == nums2[j])  {
+                    // we have to check that this is the last element or not
+                    if (j == nums2.length -1 ){
+
+                        nums1[i] = -1 ;
+                    }
+                    else {
+                        int gt = nums2[j];
+                        for (int k = j+1; k < nums2.length ; k++) {
+                            if (gt < nums2[k]){
+                                gt = nums2[k];
+                                break;
+                            }
+                        }
+                        if (nums2[j] < gt){
+                            nums1[i] = gt;
+
+                        }
+                        else nums1[i]  = -1 ;
+
+                        }
+                    break;
+                }
+
+            }
+
+        }
+        return nums1;
+
+    }
+}
