@@ -25,6 +25,8 @@ This is a repository *entirely dedicated* to all kind of questions ranging from 
 
 ***Read [contribution guidelines](./Contributing.md)***
 
+<p align="center"><img src="./images/contribution.jpg" width = 90%></p>
+
 To start contributing, follow the below guidelines:
 
 🌟. Star🌟 the repo to appreciate the work.
