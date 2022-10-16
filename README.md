@@ -128,5 +128,5 @@ Made with ❤️ By Mohit
 
 
 <!-- QUOTE:START -->
-<p align="center"><br><i>No person is your friend who demands your silence or denies your right to grow.</i><br><i>– Alice Walker.</i><br></p>
+<p align="center"><br><i>He who has imagination without learning has wings but no feet.</i><br><i>– Joseph Joubert.</i><br></p>
 <!-- QUOTE:END -->
