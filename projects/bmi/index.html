@@ -1,0 +1,104 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+	<!--CSS for table border and text alignment-->
+	<style>
+	table, th, td {
+		border: 1px solid black;
+		text-align: center;
+	}
+	</style>
+
+	<!--javascript code to calculate BMI-->
+	<script>
+		//When window is fully loaded
+		window.onload = () => {
+			//declaring a variable button and storing the selected element by div button
+			let button = document.querySelector("#button");
+	
+			//calling function to calculate BMI when button is clicked
+			button.addEventListener("click", calculateBMI);
+	};
+	
+	//function to calculate BMI
+	function calculateBMI() {
+	
+		//declaring a variable height and storing the value of div height
+		let height = document.querySelector("#height").value;
+		//declaring a variable weight and storing the value of div weight
+		let weight = document.querySelector("#weight").value;
+		//declaring a variable bmicalc and storing the the selected element by div bmicalc
+		let bmicalc = document.querySelector("#bmicalc");
+		//if input is blank or not a number print invalid height/weight
+		if (height === "" || isNaN(height)) 
+			bmicalc.innerHTML = "Invalid Height!";
+		else if (weight === "" || isNaN(weight)) 
+			bmicalc.innerHTML = "Invalid Weight!";
+		//if inputs are valid
+		else {
+			//calcute bmi by the given formula
+			let bmi = weight / ((height * height));
+			//print the bmi at div bmicalc
+			bmicalc.innerHTML = `Your BMI is : <span>${bmi}</span>`;
+		}
+	}
+	</script>
+</head>
+
+<body>
+    <!--Div containing the calcutor-->
+	<div class="calculator">
+        <!-- Heading-->
+        <h1>BMI Calculator</h1>
+        <!-- To enter height-->
+        <p>Height (in m)</p>
+        <input type="text" id="height">
+        <!-- To enter weight-->
+        <p>Weight (in kg)</p>
+        <input type="text" id="weight">
+		<!--calculate button that shows result when clicked-->
+        <button id="button">Calculate</button>
+        <!-- To show the bmi calculated-->
+        <div id="bmicalc"></div>
+    </div>
+	<br><br>
+
+	<!--table to show information-->
+	<div class="table">
+		<center>
+		<table style="width:70%">
+			<!--table heading-->
+			<tr>
+				<th>Classification</th>
+				<th>BMI Category(kg/m<sup>2</sup>)</th> 
+			</tr>
+			<!--table contents-->
+			<tr>
+				<td>Underweight</td>
+				<td>&lt; 18.5</td>
+			</tr>
+			<tr>
+				<td>Normal Weight</td>
+				<td>18.5 - 24.9</td>
+			</tr>
+			<tr>
+				<td>Overweight</td>
+				<td>25.0 - 29.9</td>
+			</tr>
+			<tr>
+				<td>Obese Class-I</td>
+				<td>30.0 - 34.9</td>
+			</tr>
+			<tr>
+				<td>Obese Class II</td>
+				<td>35.0 - 39.9</td>
+			</tr>
+			<tr>
+				<td>Obese Class III</td>
+				<td> &gt; = 40.0</td>
+			</tr>
+		</table>
+	</div>
+</body>
+</html>
