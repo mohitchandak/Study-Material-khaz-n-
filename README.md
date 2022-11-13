@@ -128,5 +128,5 @@ Made with ❤️ By Mohit
 
 
 <!-- QUOTE:START -->
-<p align="center"><br><i>But at any rate, the point is that God is what nobody admits to being, and everybody really is.</i><br><i>– Alan Watts.</i><br></p>
+<p align="center"><br><i>Good luck is another name for tenacity of purpose.</i><br><i>– Ralph Waldo Emerson.</i><br></p>
 <!-- QUOTE:END -->
