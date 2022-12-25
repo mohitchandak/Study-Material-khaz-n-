@@ -128,5 +128,5 @@ Made with ❤️ By Mohit
 
 
 <!-- QUOTE:START -->
-<p align="center"><br><i>One's philosophy is not best expressed in words; it is expressed in the choices one makes... and the choices we make are ultimately our responsibility.</i><br><i>– Eleanor Roosevelt.</i><br></p>
+<p align="center"><br><i>Imagination is the highest kite one can fly.</i><br><i>– Lauren Bacall.</i><br></p>
 <!-- QUOTE:END -->
