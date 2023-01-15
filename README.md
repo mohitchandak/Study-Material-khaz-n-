@@ -128,5 +128,5 @@ Made with ❤️ By Mohit
 
 
 <!-- QUOTE:START -->
-<p align="center"><br><i>Forgiveness is that subtle thread that binds both love and friendship. Without forgiveness, you may not even have a child one day.</i><br><i>– George Foreman.</i><br></p>
+<p align="center"><br><i>Character cannot be developed in ease and quiet. Only through experience of trial and suffering can the soul be strengthened, vision cleared, ambition inspired, and success achieved.</i><br><i>– Helen Keller.</i><br></p>
 <!-- QUOTE:END -->
