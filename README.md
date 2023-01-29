@@ -128,5 +128,5 @@ Made with ❤️ By Mohit
 
 
 <!-- QUOTE:START -->
-<p align="center"><br><i>When your desires are strong enough you will appear to possess superhuman powers to achieve.</i><br><i>– Napoleon Hill.</i><br></p>
+<p align="center"><br><i>All that we are is the result of what we have thought. The mind is everything. What we think we become.</i><br><i>– Buddha.</i><br></p>
 <!-- QUOTE:END -->
