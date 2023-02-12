@@ -128,5 +128,5 @@ Made with ❤️ By Mohit
 
 
 <!-- QUOTE:START -->
-<p align="center"><br><i>I'll prepare and someday my chance will come.</i><br><i>– Abraham Lincoln.</i><br></p>
+<p align="center"><br><i>Better be ignorant of a matter than half know it.</i><br><i>– Publilius Syrus.</i><br></p>
 <!-- QUOTE:END -->
