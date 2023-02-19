@@ -128,5 +128,5 @@ Made with ❤️ By Mohit
 
 
 <!-- QUOTE:START -->
-<p align="center"><br><i>Better be ignorant of a matter than half know it.</i><br><i>– Publilius Syrus.</i><br></p>
+<p align="center"><br><i>Friendship is but another name for an alliance with the follies and the misfortunes of others. Our own share of miseries is sufficient: why enter then as volunteers into those of another?</i><br><i>– Thomas Jefferson.</i><br></p>
 <!-- QUOTE:END -->
