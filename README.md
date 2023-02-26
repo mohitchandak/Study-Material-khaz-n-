@@ -128,5 +128,5 @@ Made with ❤️ By Mohit
 
 
 <!-- QUOTE:START -->
-<p align="center"><br><i>Friendship is but another name for an alliance with the follies and the misfortunes of others. Our own share of miseries is sufficient: why enter then as volunteers into those of another?</i><br><i>– Thomas Jefferson.</i><br></p>
+<p align="center"><br><i>Wherever a man may happen to turn, whatever a man may undertake, he will always end up by returning to the path which nature has marked out for him.</i><br><i>– Johann Wolfgang von Goethe.</i><br></p>
 <!-- QUOTE:END -->
