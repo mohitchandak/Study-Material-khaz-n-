@@ -128,5 +128,5 @@ Made with ❤️ By Mohit
 
 
 <!-- QUOTE:START -->
-<p align="center"><br><i>Independence is happiness.</i><br><i>– Susan B. Anthony.</i><br></p>
+<p align="center"><br><i>Wisdom is the reward you get for a lifetime of listening when you'd have preferred to talk.</i><br><i>– Doug Larson.</i><br></p>
 <!-- QUOTE:END -->
