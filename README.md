@@ -128,5 +128,5 @@ Made with ❤️ By Mohit
 
 
 <!-- QUOTE:START -->
-<p align="center"><br><i>Friendship is certainly the finest balm for the pangs of disappointed love.</i><br><i>– Jane Austen.</i><br></p>
+<p align="center"><br><i>Begin at once to live and count each separate day as a separate life.</i><br><i>– Seneca the Younger.</i><br></p>
 <!-- QUOTE:END -->
