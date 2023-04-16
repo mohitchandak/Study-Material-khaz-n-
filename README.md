@@ -128,5 +128,5 @@ Made with ❤️ By Mohit
 
 
 <!-- QUOTE:START -->
-<p align="center"><br><i>Begin at once to live and count each separate day as a separate life.</i><br><i>– Seneca the Younger.</i><br></p>
+<p align="center"><br><i>True friendship ought never to conceal what it thinks.</i><br><i>– Jerome.</i><br></p>
 <!-- QUOTE:END -->
