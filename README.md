@@ -128,5 +128,5 @@ Made with ❤️ By Mohit
 
 
 <!-- QUOTE:START -->
-<p align="center"><br><i>It's easy to make a buck. It's a lot tougher to make a difference.</i><br><i>– Tom Brokaw.</i><br></p>
+<p align="center"><br><i>When you judge another, you do not define them, you define yourself.</i><br><i>– Wayne Dyer.</i><br></p>
 <!-- QUOTE:END -->
