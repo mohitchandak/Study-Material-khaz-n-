@@ -128,5 +128,5 @@ Made with ❤️ By Mohit
 
 
 <!-- QUOTE:START -->
-<p align="center"><br><i>When you judge another, you do not define them, you define yourself.</i><br><i>– Wayne Dyer.</i><br></p>
+<p align="center"><br><i>Good timber does not grow with ease; the stronger the wind, the stronger the trees.</i><br><i>– J. Willard Marriott.</i><br></p>
 <!-- QUOTE:END -->
