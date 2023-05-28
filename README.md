@@ -128,5 +128,5 @@ Made with ❤️ By Mohit
 
 
 <!-- QUOTE:START -->
-<p align="center"><br><i>Good timber does not grow with ease; the stronger the wind, the stronger the trees.</i><br><i>– J. Willard Marriott.</i><br></p>
+<p align="center"><br><i>By living deeply in the present moment we can understand the past better and we can prepare for a better future.</i><br><i>– Thích Nhất Hạnh.</i><br></p>
 <!-- QUOTE:END -->
