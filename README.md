@@ -128,5 +128,5 @@ Made with ❤️ By Mohit
 
 
 <!-- QUOTE:START -->
-<p align="center"><br><i>By living deeply in the present moment we can understand the past better and we can prepare for a better future.</i><br><i>– Thích Nhất Hạnh.</i><br></p>
+<p align="center"><br><i>The great myth of our times is that technology is communication.</i><br><i>– Libby Larsen.</i><br></p>
 <!-- QUOTE:END -->
