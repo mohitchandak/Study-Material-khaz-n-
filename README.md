@@ -128,5 +128,5 @@ Made with ❤️ By Mohit
 
 
 <!-- QUOTE:START -->
-<p align="center"><br><i>The fall of dropping water wears away the Stone.</i><br><i>– Lucretius.</i><br></p>
+<p align="center"><br><i>Treat people as if they were what they ought to be, and you help them to become what they are capable of being.</i><br><i>– Johann Wolfgang von Goethe.</i><br></p>
 <!-- QUOTE:END -->
