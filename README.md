@@ -128,5 +128,5 @@ Made with ❤️ By Mohit
 
 
 <!-- QUOTE:START -->
-<p align="center"><br><i>The thoughts we choose to think are the tools we use to paint the canvas of our lives.</i><br><i>– Louise Hay.</i><br></p>
+<p align="center"><br><i>You need chaos in your soul to give birth to a dancing star.</i><br><i>– Friedrich Nietzsche.</i><br></p>
 <!-- QUOTE:END -->
