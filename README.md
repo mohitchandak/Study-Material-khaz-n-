@@ -128,5 +128,5 @@ Made with ❤️ By Mohit
 
 
 <!-- QUOTE:START -->
-<p align="center"><br><i>Reality does not conform to the ideal but confirms it.</i><br><i>– Gustave Flaubert.</i><br></p>
+<p align="center"><br><i>The personal life deeply lived always expands into truths beyond itself.</i><br><i>– Anaïs Nin.</i><br></p>
 <!-- QUOTE:END -->
