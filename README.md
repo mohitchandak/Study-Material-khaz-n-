@@ -128,5 +128,5 @@ Made with ❤️ By Mohit
 
 
 <!-- QUOTE:START -->
-<p align="center"><br><i>The personal life deeply lived always expands into truths beyond itself.</i><br><i>– Anaïs Nin.</i><br></p>
+<p align="center"><br><i>Everything that exists is in a manner the seed of that which will be.</i><br><i>– Marcus Aurelius.</i><br></p>
 <!-- QUOTE:END -->
