@@ -128,5 +128,5 @@ Made with ❤️ By Mohit
 
 
 <!-- QUOTE:START -->
-<p align="center"><br><i>How wonderful it is that nobody need wait a single moment before starting to improve the world.</i><br><i>– Anne Frank.</i><br></p>
+<p align="center"><br><i>As an organizer I start from where the world is, as it is, not as I would like it to be.</i><br><i>– Saul Alinsky.</i><br></p>
 <!-- QUOTE:END -->
