@@ -128,5 +128,5 @@ Made with ❤️ By Mohit
 
 
 <!-- QUOTE:START -->
-<p align="center"><br><i>Wrinkles should merely indicate where smiles have been.</i><br><i>– Mark Twain.</i><br></p>
+<p align="center"><br><i>Love cures people - both the ones who give it and the ones who receive it.</i><br><i>– Karl Menninger.</i><br></p>
 <!-- QUOTE:END -->
