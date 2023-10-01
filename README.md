@@ -128,5 +128,5 @@ Made with ❤️ By Mohit
 
 
 <!-- QUOTE:START -->
-<p align="center"><br><i>If only wed stop trying to be happy wed have a pretty good time.</i><br><i>– Edith Wharton.</i><br></p>
+<p align="center"><br><i>Either you run the day or the day runs you.</i><br><i>– Jim Rohn.</i><br></p>
 <!-- QUOTE:END -->
