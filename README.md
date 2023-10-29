@@ -128,5 +128,5 @@ Made with ❤️ By Mohit
 
 
 <!-- QUOTE:START -->
-<p align="center"><br><i>Change is the law of life. And those who look only to the past or present are certain to miss the future.</i><br><i>– John F. Kennedy.</i><br></p>
+<p align="center"><br><i>No yesterdays are ever wasted for those who give themselves to today.</i><br><i>– Brendan Behan.</i><br></p>
 <!-- QUOTE:END -->
