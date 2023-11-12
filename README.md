@@ -128,5 +128,5 @@ Made with ❤️ By Mohit
 
 
 <!-- QUOTE:START -->
-<p align="center"><br><i>The happiness that is genuinely satisfying is accompanied by the fullest exercise of our faculties and the fullest realization of the world in which we live.</i><br><i>– Bertrand Russell.</i><br></p>
+<p align="center"><br><i>It requires wisdom to understand wisdom: the music is nothing if the audience is deaf.</i><br><i>– Walter Lippmann.</i><br></p>
 <!-- QUOTE:END -->
