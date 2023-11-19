@@ -128,5 +128,5 @@ Made with ❤️ By Mohit
 
 
 <!-- QUOTE:START -->
-<p align="center"><br><i>It requires wisdom to understand wisdom: the music is nothing if the audience is deaf.</i><br><i>– Walter Lippmann.</i><br></p>
+<p align="center"><br><i>The thing that is disliked by me is also disliked by others. Since I dislike this thing, how can I inflict it on someone else?</i><br><i>– The Buddha.</i><br></p>
 <!-- QUOTE:END -->
