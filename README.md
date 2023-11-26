@@ -128,5 +128,5 @@ Made with ❤️ By Mohit
 
 
 <!-- QUOTE:START -->
-<p align="center"><br><i>The thing that is disliked by me is also disliked by others. Since I dislike this thing, how can I inflict it on someone else?</i><br><i>– The Buddha.</i><br></p>
+<p align="center"><br><i>Your sacred space is where you can find yourself again and again.</i><br><i>– Joseph Campbell.</i><br></p>
 <!-- QUOTE:END -->
