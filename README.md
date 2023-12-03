@@ -128,5 +128,5 @@ Made with ❤️ By Mohit
 
 
 <!-- QUOTE:START -->
-<p align="center"><br><i>Your sacred space is where you can find yourself again and again.</i><br><i>– Joseph Campbell.</i><br></p>
+<p align="center"><br><i>The deepest craving of human nature is the need to be appreciated.</i><br><i>– William James.</i><br></p>
 <!-- QUOTE:END -->
