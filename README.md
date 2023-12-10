@@ -128,5 +128,5 @@ Made with ❤️ By Mohit
 
 
 <!-- QUOTE:START -->
-<p align="center"><br><i>The deepest craving of human nature is the need to be appreciated.</i><br><i>– William James.</i><br></p>
+<p align="center"><br><i>Criticism is something you can easily avoid by saying nothing, doing nothing, and being nothing.</i><br><i>– Aristotle.</i><br></p>
 <!-- QUOTE:END -->
