@@ -128,5 +128,5 @@ Made with ❤️ By Mohit
 
 
 <!-- QUOTE:START -->
-<p align="center"><br><i>Acquaintances we meet, enjoy, and can easily leave behind; but friendship grows deep roots.</i><br><i>– H. Jackson Brown Jr..</i><br></p>
+<p align="center"><br><i>You cannot have what you do not want.</i><br><i>– John Acosta.</i><br></p>
 <!-- QUOTE:END -->
