@@ -128,5 +128,5 @@ Made with ❤️ By Mohit
 
 
 <!-- QUOTE:START -->
-<p align="center"><br><i>You cannot have what you do not want.</i><br><i>– John Acosta.</i><br></p>
+<p align="center"><br><i>If it is not right do not do it; if it is not true do not say it.</i><br><i>– Marcus Aurelius.</i><br></p>
 <!-- QUOTE:END -->
