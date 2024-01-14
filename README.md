@@ -128,5 +128,5 @@ Made with ❤️ By Mohit
 
 
 <!-- QUOTE:START -->
-<p align="center"><br><i>You can always count on Americans to do the right thing - after they've tried everything else.</i><br><i>– Winston Churchill.</i><br></p>
+<p align="center"><br><i>Let us always meet each other with smile, for the smile is the beginning of love.</i><br><i>– Mother Teresa.</i><br></p>
 <!-- QUOTE:END -->
