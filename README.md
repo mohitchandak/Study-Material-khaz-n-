@@ -128,5 +128,5 @@ Made with ❤️ By Mohit
 
 
 <!-- QUOTE:START -->
-<p align="center"><br><i>Let us always meet each other with smile, for the smile is the beginning of love.</i><br><i>– Mother Teresa.</i><br></p>
+<p align="center"><br><i>Nothing in life is to be feared. It is only to be understood.</i><br><i>– Marie Curie.</i><br></p>
 <!-- QUOTE:END -->
