@@ -128,5 +128,5 @@ Made with ❤️ By Mohit
 
 
 <!-- QUOTE:START -->
-<p align="center"><br><i>Nothing in life is to be feared. It is only to be understood.</i><br><i>– Marie Curie.</i><br></p>
+<p align="center"><br><i>Do not waste yourself in rejection, nor bark against the bad, but chant the beauty of the good.</i><br><i>– Ralph Waldo Emerson.</i><br></p>
 <!-- QUOTE:END -->
