@@ -128,5 +128,5 @@ Made with ❤️ By Mohit
 
 
 <!-- QUOTE:START -->
-<p align="center"><br><i>Do not waste yourself in rejection, nor bark against the bad, but chant the beauty of the good.</i><br><i>– Ralph Waldo Emerson.</i><br></p>
+<p align="center"><br><i>The most certain sign of wisdom is cheerfulness.</i><br><i>– Michel de Montaigne.</i><br></p>
 <!-- QUOTE:END -->
