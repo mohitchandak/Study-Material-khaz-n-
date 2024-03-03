@@ -128,5 +128,5 @@ Made with ❤️ By Mohit
 
 
 <!-- QUOTE:START -->
-<p align="center"><br><i>The most certain sign of wisdom is cheerfulness.</i><br><i>– Michel de Montaigne.</i><br></p>
+<p align="center"><br><i>Where there is love there is life.</i><br><i>– Mahatma Gandhi.</i><br></p>
 <!-- QUOTE:END -->
