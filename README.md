@@ -128,5 +128,5 @@ Made with ❤️ By Mohit
 
 
 <!-- QUOTE:START -->
-<p align="center"><br><i>If you are going to achieve excellence in big things, you develop the habit in little matters. Excellence is not an exception; it is a prevailing attitude.</i><br><i>– Colin Powell.</i><br></p>
+<p align="center"><br><i>Share your smile with the world. It's a symbol of friendship and peace.</i><br><i>– Christie Brinkley.</i><br></p>
 <!-- QUOTE:END -->
