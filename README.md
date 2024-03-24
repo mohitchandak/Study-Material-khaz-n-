@@ -128,5 +128,5 @@ Made with ❤️ By Mohit
 
 
 <!-- QUOTE:START -->
-<p align="center"><br><i>Share your smile with the world. It's a symbol of friendship and peace.</i><br><i>– Christie Brinkley.</i><br></p>
+<p align="center"><br><i>Trying to define yourself is like trying to bite your own teeth.</i><br><i>– Alan Watts.</i><br></p>
 <!-- QUOTE:END -->
