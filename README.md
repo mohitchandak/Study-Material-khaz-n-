@@ -128,5 +128,5 @@ Made with ❤️ By Mohit
 
 
 <!-- QUOTE:START -->
-<p align="center"><br><i>Trying to define yourself is like trying to bite your own teeth.</i><br><i>– Alan Watts.</i><br></p>
+<p align="center"><br><i>People grow through experience if they meet life honestly and courageously. This is how character is built.</i><br><i>– Eleanor Roosevelt.</i><br></p>
 <!-- QUOTE:END -->
