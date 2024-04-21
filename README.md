@@ -128,5 +128,5 @@ Made with ❤️ By Mohit
 
 
 <!-- QUOTE:START -->
-<p align="center"><br><i>The power of intuitive understanding will protect you from harm until the end of your days.</i><br><i>– Laozi.</i><br></p>
+<p align="center"><br><i>Begin at once to live and count each separate day as a separate life.</i><br><i>– Seneca the Younger.</i><br></p>
 <!-- QUOTE:END -->
