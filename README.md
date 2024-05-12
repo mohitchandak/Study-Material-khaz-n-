@@ -128,5 +128,5 @@ Made with ❤️ By Mohit
 
 
 <!-- QUOTE:START -->
-<p align="center"><br><i>Friendship is always a sweet responsibility, never an opportunity.</i><br><i>– Kahlil Gibran.</i><br></p>
+<p align="center"><br><i>He who lives in harmony with himself lives in harmony with the world.</i><br><i>– Marcus Aurelius.</i><br></p>
 <!-- QUOTE:END -->
