@@ -128,5 +128,5 @@ Made with ❤️ By Mohit
 
 
 <!-- QUOTE:START -->
-<p align="center"><br><i>He who lives in harmony with himself lives in harmony with the world.</i><br><i>– Marcus Aurelius.</i><br></p>
+<p align="center"><br><i>I'll prepare and someday my chance will come.</i><br><i>– Abraham Lincoln.</i><br></p>
 <!-- QUOTE:END -->
