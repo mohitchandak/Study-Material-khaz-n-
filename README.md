@@ -128,5 +128,5 @@ Made with ❤️ By Mohit
 
 
 <!-- QUOTE:START -->
-<p align="center"><br><i>I'll prepare and someday my chance will come.</i><br><i>– Abraham Lincoln.</i><br></p>
+<p align="center"><br><i>As we express our gratitude, we must never forget that the highest appreciation is not to utter words, but to live by them.</i><br><i>– John F. Kennedy.</i><br></p>
 <!-- QUOTE:END -->
