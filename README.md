@@ -128,5 +128,5 @@ Made with ❤️ By Mohit
 
 
 <!-- QUOTE:START -->
-<p align="center"><br><i>As we express our gratitude, we must never forget that the highest appreciation is not to utter words, but to live by them.</i><br><i>– John F. Kennedy.</i><br></p>
+<p align="center"><br><i>The greatest mistake you can make in life is to be continually fearing you will make one.</i><br><i>– Elbert Hubbard.</i><br></p>
 <!-- QUOTE:END -->
