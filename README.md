@@ -128,5 +128,5 @@ Made with ❤️ By Mohit
 
 
 <!-- QUOTE:START -->
-<p align="center"><br><i>The greatest mistake you can make in life is to be continually fearing you will make one.</i><br><i>– Elbert Hubbard.</i><br></p>
+<p align="center"><br><i>The truth is not for all men, but only for those who seek it.</i><br><i>– Ayn Rand.</i><br></p>
 <!-- QUOTE:END -->
