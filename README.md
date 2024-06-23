@@ -128,5 +128,5 @@ Made with ❤️ By Mohit
 
 
 <!-- QUOTE:START -->
-<p align="center"><br><i>Love and friendship exclude each other.</i><br><i>– Jean de La Bruyère.</i><br></p>
+<p align="center"><br><i>Sports do not build character. They reveal it.</i><br><i>– Heywood Broun.</i><br></p>
 <!-- QUOTE:END -->
