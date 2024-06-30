@@ -128,5 +128,5 @@ Made with ❤️ By Mohit
 
 
 <!-- QUOTE:START -->
-<p align="center"><br><i>Sports do not build character. They reveal it.</i><br><i>– Heywood Broun.</i><br></p>
+<p align="center"><br><i>The doors of wisdom are never shut.</i><br><i>– Benjamin Franklin.</i><br></p>
 <!-- QUOTE:END -->
