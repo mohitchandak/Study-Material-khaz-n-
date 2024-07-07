@@ -128,5 +128,5 @@ Made with ❤️ By Mohit
 
 
 <!-- QUOTE:START -->
-<p align="center"><br><i>The doors of wisdom are never shut.</i><br><i>– Benjamin Franklin.</i><br></p>
+<p align="center"><br><i>I know that inner wisdom is more precious than wealth. The more you spend it, the more you gain.</i><br><i>– Oprah Winfrey.</i><br></p>
 <!-- QUOTE:END -->
