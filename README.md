@@ -128,5 +128,5 @@ Made with ❤️ By Mohit
 
 
 <!-- QUOTE:START -->
-<p align="center"><br><i>I know that inner wisdom is more precious than wealth. The more you spend it, the more you gain.</i><br><i>– Oprah Winfrey.</i><br></p>
+<p align="center"><br><i>In rivers, the water that you touch is the last of what has passed and the first of that which comes; so with present time.</i><br><i>– Leonardo da Vinci.</i><br></p>
 <!-- QUOTE:END -->
