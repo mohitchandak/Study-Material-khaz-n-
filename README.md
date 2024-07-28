@@ -128,5 +128,5 @@ Made with ❤️ By Mohit
 
 
 <!-- QUOTE:START -->
-<p align="center"><br><i>The higher we are placed, the more humbly we should walk.</i><br><i>– Cicero.</i><br></p>
+<p align="center"><br><i>Friendship is the marriage of the soul, and this marriage is liable to divorce.</i><br><i>– Voltaire.</i><br></p>
 <!-- QUOTE:END -->
