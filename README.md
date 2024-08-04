@@ -128,5 +128,5 @@ Made with ❤️ By Mohit
 
 
 <!-- QUOTE:START -->
-<p align="center"><br><i>Friendship is the marriage of the soul, and this marriage is liable to divorce.</i><br><i>– Voltaire.</i><br></p>
+<p align="center"><br><i>There is nothing like returning to a place that remains unchanged to find the ways in which you yourself have altered.</i><br><i>– Nelson Mandela.</i><br></p>
 <!-- QUOTE:END -->
