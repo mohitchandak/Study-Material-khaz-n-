@@ -128,5 +128,5 @@ Made with ❤️ By Mohit
 
 
 <!-- QUOTE:START -->
-<p align="center"><br><i>There is nothing like returning to a place that remains unchanged to find the ways in which you yourself have altered.</i><br><i>– Nelson Mandela.</i><br></p>
+<p align="center"><br><i>To listen well is as powerful a means of communication and influence as to talk well.</i><br><i>– John Marshall.</i><br></p>
 <!-- QUOTE:END -->
