@@ -128,5 +128,5 @@ Made with ❤️ By Mohit
 
 
 <!-- QUOTE:START -->
-<p align="center"><br><i>To listen well is as powerful a means of communication and influence as to talk well.</i><br><i>– John Marshall.</i><br></p>
+<p align="center"><br><i>It has long been an axiom of mine that the little things are infinitely the most important.</i><br><i>– Arthur Conan Doyle.</i><br></p>
 <!-- QUOTE:END -->
