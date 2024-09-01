@@ -128,5 +128,5 @@ Made with ❤️ By Mohit
 
 
 <!-- QUOTE:START -->
-<p align="center"><br><i>It has long been an axiom of mine that the little things are infinitely the most important.</i><br><i>– Arthur Conan Doyle.</i><br></p>
+<p align="center"><br><i>All the great performers I have worked with are fueled by a personal dream.</i><br><i>– John Eliot.</i><br></p>
 <!-- QUOTE:END -->
