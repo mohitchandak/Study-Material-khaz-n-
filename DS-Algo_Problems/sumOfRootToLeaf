@@ -1,0 +1,33 @@
+import java.util.LinkedList;
+import java.util.List;
+import java.util.Queue;
+
+public class sumOfRootToLeaf {
+    static class TreeNode {
+        int val;
+        TreeNode left;
+        TreeNode right;
+
+        public TreeNode(int key) {
+            val = key;
+            left = null;
+            right = null;
+        }
+    }
+
+    public int sumRootToLeaf(TreeNode root) {
+        return findSum(root, 0);
+
+    }
+
+    private int findSum(TreeNode root, int sum) {
+        if (root == null) return 0;
+
+        sum = (sum << 1) + root.val;
+        // check for if it is leaf node or not
+        if (root.left == null && root.right == null) {
+            return sum;
+        }
+        return findSum(root.left, sum) + findSum(root.right, sum);
+
+    }
